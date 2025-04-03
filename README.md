@@ -21,12 +21,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics  
 
----
 
-## 🛠️ Important Links & Tools:
-
-Everything is for Free!
-- **[Datasets](datasets/):** Access to the project dataset (csv files).
 
 ---
 
